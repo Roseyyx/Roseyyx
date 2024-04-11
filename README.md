@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rose</h1>
-<h3 align="center">Security Engineer, Software Tempering and Reverse Engineer</h3>
+<h3 align="center">Security Engineer, Software Tampering and Reverse Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
