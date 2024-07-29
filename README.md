@@ -31,6 +31,6 @@
 
 
 <a href="https://github.com/Roseyyx/Roseyyx.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=Seismic-Security&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=SeismicSecurity&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
 </a>  
 
