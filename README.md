@@ -10,10 +10,10 @@
 ![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-ASM-informational?style=flat&logo=asm&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-ASM-informational?style=flat&logo=assembly&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
 
 ## ⚙️ GitHub Stats ⚙️
