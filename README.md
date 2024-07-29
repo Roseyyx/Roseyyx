@@ -1,4 +1,4 @@
-## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Welcome To My Github ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
+## Welcome To My Github
 
 - 🤝 Hi, I'm Rose
 - 🛠 I am currently working as a Part-Time Developer working with the Symfony Framework
