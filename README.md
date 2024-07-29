@@ -2,7 +2,7 @@
 
 - 🤝 Hi, I'm Rose
 - 🛠 I am currently working as a Part-Time Developer working with the Symfony Framework
-- 🌴 I am go by She/Her
+- 🌴 I go by She/Her
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
