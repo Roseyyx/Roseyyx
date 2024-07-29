@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/Roseyyx/Roseyyx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=Seismic-AntiCheat-Solutions&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=Seismic-AntiCheat-Solutions&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&width=200px" />
 </a>
 
 
