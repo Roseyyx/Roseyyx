@@ -25,12 +25,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roseyyx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Rose's GitHub Stats" width="400"/>
 </a>
 
-<a href="https://github.com/Roseyyx/Roseyyx">
+<a href="https://github.com/Roseyyx/Roseyyx/Seismic-AntiCheat-Solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=Seismic-AntiCheat-Solutions&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" width="400" />
 </a>
 
 
-<a href="https://github.com/Roseyyx/Roseyyx.github.io">
+<a href="https://github.com/Roseyyx/Roseyyx/SeismicSecurity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=SeismicSecurity&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" width="400"/>
 </a>  
 
