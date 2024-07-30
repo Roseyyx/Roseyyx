@@ -19,18 +19,18 @@
 ## ⚙️ GitHub Stats ⚙️
 
 <a href="https://github.com/Roseyyx/Roseyyx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseyyx&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseyyx&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" width="400" height="270"/>
 </a>
 <a href="https://github.com/Roseyyx/Roseyyx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roseyyx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Rose's GitHub Stats" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roseyyx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Rose's GitHub Stats" width="400" height="280"/>
 </a>
 
 <a href="https://github.com/Roseyyx/Roseyyx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=Seismic-AntiCheat-Solutions&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=Seismic-AntiCheat-Solutions&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" width="400" height="270" />
 </a>
 
 
 <a href="https://github.com/Roseyyx/Roseyyx.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=SeismicSecurity&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roseyyx&repo=SeismicSecurity&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" width="400" height="270"/>
 </a>  
 
