@@ -1,7 +1,7 @@
 ## Welcome To My Github
 
 - 🤝 Hi, I'm Rose
-- 🛠 I am currently working as a Part-Time Developer using the Symfony Framework
+- 🛠 I am currently working on my custom game engine written in C
 - 🌴 I go by She/Her
 
 ## 🔧 Technologies Stack 🔧
