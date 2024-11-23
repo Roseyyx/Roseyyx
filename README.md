@@ -2,6 +2,12 @@
 ```md
 Hi! I am Rose, a Cyber Security enthousiast.
 I love tampering with software and games.
+
+# About me
+
+- I go by She/Her
+- You can find me on either discord (angelicrosey) or twitter (@Rosey_x_x)
+- I mostly code in C++
 ```
 
 ## 🔧 Technologies Stack 🔧
