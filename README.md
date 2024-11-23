@@ -1,8 +1,8 @@
-## Welcome To My Github
 
-- 🤝 Hi, I'm Rose
-- 🛠 I am currently working on my custom game engine written in C
-- 🌴 I go by She/Her
+```md
+Hi! I am Rose, a Cyber Security enthousiast.
+I love tampering with software and games.
+```
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
