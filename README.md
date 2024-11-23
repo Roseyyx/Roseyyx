@@ -26,7 +26,7 @@ I love tampering with software and games.
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseyyx&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" width="420px"/>
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roseyyx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Rose's GitHub Stats" width="420px"/>
+    <img width="420px" src="https://streak-stats.demolab.com?user=roseyyx&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=000000" alt="GitHub Streak" />
   </div>
 </div>
 
