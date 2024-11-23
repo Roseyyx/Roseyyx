@@ -12,26 +12,25 @@ I love tampering with software and games.
 ```
 
 # 🔧 Technologies Stack 🔧
-
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=blueviolet)
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=blueviolet)
-
-![](https://img.shields.io/badge/Compiler-LLVM-informational?style=flat&logo=llvm&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Compiler-cmake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Compiler-cmake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
-
-![](https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
-
+<div align="center">
+    ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/Code-assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=blueviolet)
+    
+    ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=blueviolet)
+    
+    ![](https://img.shields.io/badge/Compiler-LLVM-informational?style=flat&logo=llvm&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/Compiler-Cmake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
+    
+    ![](https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
+    ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
+</div>
 # ⚙️ GitHub Stats ⚙️
 <div>
     <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=roseyyx&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
