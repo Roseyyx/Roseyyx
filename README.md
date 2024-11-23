@@ -10,9 +10,11 @@ I love tampering with software and games.
 - You can find me on either discord (angelicrosey) or twitter (@Rosey_x_x)
 - I mostly code in C++
 ```
+#
 
 # 🔧 Technologies Stack 🔧
 <div align="center">
+    
     ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
     ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blueviolet)
     ![](https://img.shields.io/badge/Code-assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=blueviolet)
@@ -30,7 +32,10 @@ I love tampering with software and games.
     
     ![](https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
     ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
+    
 </div>
+#
+
 # ⚙️ GitHub Stats ⚙️
 <div>
     <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=roseyyx&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
@@ -40,4 +45,4 @@ I love tampering with software and games.
     <img width="420px" src="https://streak-stats.demolab.com?user=roseyyx&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=000000" alt="GitHub Streak" />
   </div>
 </div>
-
+#
