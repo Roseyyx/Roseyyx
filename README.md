@@ -13,9 +13,6 @@ I love tampering with software and games.
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-ASM-informational?style=flat&logo=assembly&logoColor=white&color=blueviolet)
