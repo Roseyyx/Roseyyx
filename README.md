@@ -35,7 +35,7 @@ I love tampering with software and games.
 
 # ⚙️ GitHub Stats ⚙️ #
 <div>
-    <img align="right" width="420px" src="https://github-profile-trophy.vercel.app/?username=roseyyx&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
+    <img align="right" width="382px" src="https://github-profile-trophy.vercel.app/?username=roseyyx&theme=dracula&no-bg=true&no-frame=true&row=3&column=3">
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseyyx&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=000000&langs_count=3" width="420px"/>
     <br>
