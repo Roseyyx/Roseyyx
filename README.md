@@ -13,6 +13,7 @@ I love tampering with software and games.
 
 # 🔧 Technologies Stack 🔧 #
 <div align="center">
+    
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=blueviolet)
