@@ -27,7 +27,7 @@ I love tampering with software and games.
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Compiler-LLVM-informational?style=flat&logo=llvm&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Compiler-Cmake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Linker-Cmake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
