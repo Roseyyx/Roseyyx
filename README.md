@@ -11,7 +11,7 @@ I love tampering with software and games.
 - I mostly code in C++
 ```
 
-# 🔧 Technologies Stack 🔧 #
+# 🔧 Technologies 🔧 #
 <div align="center">
     
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
