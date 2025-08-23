@@ -7,7 +7,7 @@ I love tampering with software and games.
 # About me
 
 - I go by She/Her
-- You can find me on either discord (angelicrosey) or twitter (@Rosey_x_x)
+- You can find me on either discord (angelicrosey) or twitter (@angelicroseyy)
 - I mostly code in C++
 ```
 
