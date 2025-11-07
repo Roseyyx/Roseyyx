@@ -7,7 +7,7 @@ Hi there~ I'm Rose, 21 year old Cyber Security enthusiast.
 
 - I go by She/Her
 - You can find me on either discord (angelicrosey) or twitter (@angelicroseyy)
-- I mostly code in C++
+- I mostly code in C/C++
 
 - Thinkpad lover (I use arch btw)
 ```
@@ -31,7 +31,7 @@ Hi there~ I'm Rose, 21 year old Cyber Security enthusiast.
 ![](https://img.shields.io/badge/Linker-Cmake-informational?style=flat&logo=cmake&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/Virtualization-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Git-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
 </div>
 
 # ⚙️ GitHub Stats ⚙️ #
