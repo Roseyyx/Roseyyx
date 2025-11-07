@@ -1,14 +1,15 @@
 # Welcome to my github! ♡ #
 
 ```md
-Hi! I am Rose, a Cyber Security enthousiast.
-I love tampering with software and games.
+Hi there~ I'm Rose, 21 year old Cyber Security enthusiast.
 
 # About me
 
 - I go by She/Her
 - You can find me on either discord (angelicrosey) or twitter (@angelicroseyy)
 - I mostly code in C++
+
+- Thinkpad lover (I use arch btw)
 ```
 
 # 🔧 Technologies 🔧 #
