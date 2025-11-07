@@ -17,7 +17,7 @@ Hi there~ I'm Rose, 21 year old Cyber Security enthusiast.
     
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-assembly-informational?style=flat&logo=assemblyscript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-x86/x64-informational?style=flat&logo=assemblyscript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=blueviolet)
