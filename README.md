@@ -1,4 +1,4 @@
-<h1><span style="color: #ffd7ff;">Welcome to my gitea! ♡ </span></h1>
+<h1><span style="color: #ffd7ff;">Welcome to my GitHub! ♡ </span></h1>
 
 ```md
 Hi there~ I'm Rose, 21 year old Cyber Security enthusiast.
