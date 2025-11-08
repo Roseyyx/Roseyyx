@@ -9,7 +9,7 @@ Hi there~ I'm Rose, 21 year old Cyber Security enthusiast.
 ```md
 - I go by She/Her
 - You can find me on either discord (angelicrosey) or twitter (@angelicroseyy)
-- I mostly code in C++
+- I mostly code in C or C++
 
 - Thinkpad lover (I use arch btw)
 ```
