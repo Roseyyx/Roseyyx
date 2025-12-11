@@ -38,6 +38,4 @@ Hi there~ I'm Rose, 21 year old Cyber Security enthusiast.
 <h3><span style="color: #ffd7ff;">Github Stats ♡ </span></h3>
 <div align="center">
     <img width="420px" src="https://streak-stats.demolab.com?user=Roseyyx&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=3f3740&theme=omni" alt="GitHub Streak" />
-    </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roseyyx&hide=java,html,tex&title_color=ffd7ff&text_color=ffd7ff&icon_color=ffd7ff&bg_color=3f3740&langs_count=3" width="420px"/>
 </div>
